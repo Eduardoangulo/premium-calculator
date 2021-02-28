@@ -58,6 +58,7 @@ app.pages.Calculator = app.pages.Calculator || (function () {
         $('#txtPremium').val('');
         $('#txtMonthlyValue').val('');
         $('#txtAnnualValue').val('');
+        $('#lstFrequency').val('');
         $('#lstFrequency').prop('disabled', true);
     }
 
