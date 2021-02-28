@@ -1,0 +1,81 @@
+﻿@model PremiumCalculator.UI.Mvc.Models.PremiumCalculatorModel
+
+@{
+    ViewData["Title"] = "Calculator";
+}
+
+<h1>Calculator</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Calculator" id="frmCalculator">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-4">
+                    <div class="form-group">
+                        <label asp-for="DateBirth" class="control-label"></label>
+                        <input asp-for="DateBirth" id="dtDateBirth" type="date" asp-format="{0:dd/MM/yyyy}" class="form-control" />
+                        <span asp-validation-for="DateBirth" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="State" class="control-label"></label>
+                        <input asp-for="State" id="txtState" class="form-control" />
+                        <span asp-validation-for="State" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Age" class="control-label"></label>
+                        <input asp-for="Age" id="txtAge" class="form-control" />
+                        <span asp-validation-for="Age" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-2">
+                    <div class="form-group">
+                        <button type="button" id="btnGetValue" class="col-12 btn btn-primary">Get Value</button>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="form-group">
+                        <input asp-for="PremiumValue" class="form-control" id="txtPremium" readonly />
+                        <span asp-validation-for="PremiumValue" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <div class="form-group">
+                        <select asp-for="FrequencyValue" asp-items="Model.FrequencyList" id="lstFrequency" class="form-control"></select>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="form-inline">
+                        <label asp-for="AnnualValue" class="col-3"></label>
+                        <input asp-for="AnnualValue" id="txtAnnualValue" class="col-7 form-control" readonly />
+                        <span asp-validation-for="AnnualValue" class="text-danger"></span>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-6">
+                </div>
+                <div class="col-4">
+                    <div class="form-inline">
+                        <label asp-for="MonthlyValue" class="col-3"></label>
+                        <input asp-for="MonthlyValue" id="txtMonthlyValue" class="col-7 form-control" readonly />
+                        <span asp-validation-for="MonthlyValue" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script type="text/javascript">
+        $(document).ready(app.pages.Calculator.InitCalculator);
+    </script>
+}

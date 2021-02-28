@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PremiumCalculator.Application.Interface\PremiumCalculator.Application.Interface.csproj" />
+    <ProjectReference Include="..\PremiumCalculator.Application\PremiumCalculator.Application.csproj" />
+  </ItemGroup>
+
+</Project>
