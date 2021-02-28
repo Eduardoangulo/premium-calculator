@@ -12,4 +12,7 @@
     <ProjectReference Include="..\PremiumCalculator.Application.DTO\PremiumCalculator.Application.DTO.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\scripts\App\Pages\Calculator.js" />
+  </ItemGroup>
 </Project>

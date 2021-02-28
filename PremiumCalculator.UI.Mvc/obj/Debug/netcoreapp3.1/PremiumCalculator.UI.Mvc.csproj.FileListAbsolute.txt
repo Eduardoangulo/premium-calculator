@@ -1,5 +1,5 @@
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/bin/Debug/netcoreapp3.1/PremiumCalculator.UI.Mvc.deps.json
 /Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/bin/Debug/netcoreapp3.1/PremiumCalculator.UI.Mvc.runtimeconfig.json
@@ -11,7 +11,6 @@
 /Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/bin/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.dll
 /Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/bin/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.pdb
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/obj/Debug/netcoreapp3.1/PremiumCalculator.UI.Mvc.csprojAssemblyReference.cache
 /Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/obj/Debug/netcoreapp3.1/PremiumCalculator.UI.Mvc.AssemblyInfoInputs.cache
 /Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/obj/Debug/netcoreapp3.1/PremiumCalculator.UI.Mvc.AssemblyInfo.cs
 /Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/obj/Debug/netcoreapp3.1/PremiumCalculator.UI.Mvc.csproj.CoreCompileInputs.cache
