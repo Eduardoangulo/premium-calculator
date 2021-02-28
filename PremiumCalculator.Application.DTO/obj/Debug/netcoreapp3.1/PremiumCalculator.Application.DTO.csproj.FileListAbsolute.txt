@@ -1,9 +1,0 @@
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/bin/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.deps.json
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/bin/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.dll
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/bin/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.pdb
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/obj/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.csprojAssemblyReference.cache
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/obj/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.AssemblyInfoInputs.cache
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/obj/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.AssemblyInfo.cs
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/obj/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.csproj.CoreCompileInputs.cache
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/obj/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.dll
-/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/obj/Debug/netcoreapp3.1/PremiumCalculator.Application.DTO.pdb

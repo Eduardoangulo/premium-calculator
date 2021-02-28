@@ -65,6 +65,11 @@ app.pages.Calculator = app.pages.Calculator || (function () {
     function InitCalculator() {
         $('#btnGetValue').on('click', getValuePremium);
         $('#lstFrequency').on('change', calculateOtherAmounts);
+        $('#txtState').keyup(function () {
+            $(this).val($(this).val().toUpperCase());
+            if ($(this).val().length > 2)
+                $(this).val($(this).val().substr(0,2));
+        });
     }
 
     return {
