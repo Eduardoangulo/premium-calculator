@@ -1,6 +1,5 @@
-﻿<Properties StartupConfiguration="{5DB86C47-274A-4644-B298-735A0FB87EE8}|Default">
+﻿<Properties StartupConfiguration="{E56DDFCD-735C-4EAF-AEB7-428E0A204AB4}|Default">
   <MonoDevelop.Ide.ItemProperties.PremiumCalculator.API PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.PremiumCalculator.UI.Mvc PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
