@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PremiumCalculator.Applicati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumCalculator.UI.Mvc", "PremiumCalculator.UI.Mvc\PremiumCalculator.UI.Mvc.csproj", "{5DB86C47-274A-4644-B298-735A0FB87EE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumCalculator.API", "PremiumCalculator.API\PremiumCalculator.API.csproj", "{11FECE6D-EE85-4ED6-994F-33DBBB310CCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumCalculator.API", "PremiumCalculator.API\PremiumCalculator.API.csproj", "{9607A877-0435-402D-8031-029AF7DC3564}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{5DB86C47-274A-4644-B298-735A0FB87EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB86C47-274A-4644-B298-735A0FB87EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB86C47-274A-4644-B298-735A0FB87EE8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{11FECE6D-EE85-4ED6-994F-33DBBB310CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{11FECE6D-EE85-4ED6-994F-33DBBB310CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{11FECE6D-EE85-4ED6-994F-33DBBB310CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{11FECE6D-EE85-4ED6-994F-33DBBB310CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9607A877-0435-402D-8031-029AF7DC3564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9607A877-0435-402D-8031-029AF7DC3564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9607A877-0435-402D-8031-029AF7DC3564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9607A877-0435-402D-8031-029AF7DC3564}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

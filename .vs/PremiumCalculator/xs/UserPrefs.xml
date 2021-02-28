@@ -1,9 +1,7 @@
 ﻿<Properties StartupConfiguration="{5DB86C47-274A-4644-B298-735A0FB87EE8}|Default">
+  <MonoDevelop.Ide.ItemProperties.PremiumCalculator.API PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.PremiumCalculator.UI.Mvc PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PremiumCalculator.UI.Mvc/PremiumCalculator.UI.Mvc.csproj">
-    <Files>
-      <File FileName="PremiumCalculator.UI.Mvc/PremiumCalculator.UI.Mvc.csproj" Line="6" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
