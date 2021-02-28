@@ -2,7 +2,7 @@
 Premium Calculator is an application that help us to calculate specific amounts depends on defined rules based on birthdate, age and US state belonging. 
 This challenge belongs to Tranzact IT area specific for System Configuration position.
 
-* There are three branches on the current solution, master is the latest version for all the solution and others branches have been created for deployed on Heroku platform.
+* There are three branches on the current solution, master is the latest version for all the solution and other branches have been created for deployed on Heroku platform.
   * Deployed Web version: https://premium-calculator-web.herokuapp.com
   * Deployed Rest Api version: https://premium-calculator-api.herokuapp.com
 
