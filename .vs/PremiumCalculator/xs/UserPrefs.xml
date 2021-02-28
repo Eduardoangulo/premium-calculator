@@ -1,23 +1,14 @@
 ﻿<Properties StartupConfiguration="{5DB86C47-274A-4644-B298-735A0FB87EE8}|Default">
   <MonoDevelop.Ide.ItemProperties.PremiumCalculator.UI.Mvc PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PremiumCalculator.UI.Mvc/PremiumCalculator.UI.Mvc.csproj">
+    <Files>
+      <File FileName="PremiumCalculator.UI.Mvc/PremiumCalculator.UI.Mvc.csproj" Line="6" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PremiumCalculator" expanded="True">
-            <Node name="PremiumCalculator.UI.Mvc" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="scripts" expanded="True">
-                  <Node name="App" expanded="True">
-                    <Node name="Pages" expanded="True" />
-                  </Node>
-                </Node>
-              </Node>
-              <Node name="appsettings.json" selected="True" />
-            </Node>
+            <Node name="PremiumCalculator.UI.Mvc" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -27,9 +18,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <DisabledProjects>
-    <String>PremiumCalculator.API/PremiumCalculator.API.csproj</String>
-  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
