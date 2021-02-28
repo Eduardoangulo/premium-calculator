@@ -1,23 +1,25 @@
 ﻿<Properties StartupConfiguration="{5DB86C47-274A-4644-B298-735A0FB87EE8}|Default">
-  <MonoDevelop.Ide.ItemProperties.PremiumCalculator.API PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.PremiumCalculator.UI.Mvc PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="PremiumCalculator.UI.Mvc/wwwroot/scripts/App/Pages/Calculator.js">
+    <Files>
+      <File FileName="PremiumCalculator.UI.Mvc/appsettings.json" Line="7" Column="6" />
+      <File FileName="PremiumCalculator.UI.Mvc/wwwroot/scripts/App/Pages/Calculator.js" Line="65" Column="32" />
+      <File FileName="PremiumCalculator.UI.Mvc/Views/Home/Calculator.cshtml" Line="23" Column="130" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PremiumCalculator" expanded="True">
             <Node name="PremiumCalculator.UI.Mvc" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="HomeController.cs" selected="True" />
-              </Node>
-              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="scripts" expanded="True">
                   <Node name="App" expanded="True">
-                    <Node name="Pages" expanded="True" />
+                    <Node name="Pages" expanded="True">
+                      <Node name="Calculator.js" selected="True" />
+                    </Node>
                   </Node>
                 </Node>
               </Node>
