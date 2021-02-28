@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eangulo\\Desktop\\Fuentes\\PremiumCalculator\\PremiumCalculator.Application.DTO\\PremiumCalculator.Application.DTO.csproj": {}
+    "/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/PremiumCalculator.Application.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eangulo\\Desktop\\Fuentes\\PremiumCalculator\\PremiumCalculator.Application.DTO\\PremiumCalculator.Application.DTO.csproj": {
+    "/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/PremiumCalculator.Application.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eangulo\\Desktop\\Fuentes\\PremiumCalculator\\PremiumCalculator.Application.DTO\\PremiumCalculator.Application.DTO.csproj",
+        "projectUniqueName": "/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/PremiumCalculator.Application.DTO.csproj",
         "projectName": "PremiumCalculator.Application.DTO",
-        "projectPath": "C:\\Users\\eangulo\\Desktop\\Fuentes\\PremiumCalculator\\PremiumCalculator.Application.DTO\\PremiumCalculator.Application.DTO.csproj",
-        "packagesPath": "C:\\Users\\eangulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eangulo\\Desktop\\Fuentes\\PremiumCalculator\\PremiumCalculator.Application.DTO\\obj\\",
+        "projectPath": "/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/PremiumCalculator.Application.DTO.csproj",
+        "packagesPath": "/Users/eduardoanguloluna/.nuget/packages/",
+        "outputPath": "/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.Application.DTO/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\eangulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/eduardoanguloluna/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     }

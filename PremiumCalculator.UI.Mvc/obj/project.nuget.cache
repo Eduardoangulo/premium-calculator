@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sgwrX9/B9DLLPehVIkYANDnQDqtP47PryYQrPzAjhBf3voEH5elK4PsnYxJb4CcdV07WKR4ERujriBCzG1NuOQ==",
+  "success": true,
+  "projectFilePath": "/Users/eduardoanguloluna/Desktop/PremiumCalculator/PremiumCalculator.UI.Mvc/PremiumCalculator.UI.Mvc.csproj",
+  "expectedPackageFiles": [
+    "/Users/eduardoanguloluna/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
