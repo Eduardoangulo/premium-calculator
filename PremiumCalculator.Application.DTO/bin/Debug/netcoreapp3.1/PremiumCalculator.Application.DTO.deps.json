@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PremiumCalculator.Application.DTO/1.0.0": {
+        "runtime": {
+          "PremiumCalculator.Application.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PremiumCalculator.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
